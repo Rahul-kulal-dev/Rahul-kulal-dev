@@ -8,11 +8,15 @@
 
 <div align="center">
 
+### 🟠 LeetCode
+
 <a href="https://leetcode.com/u/Rahul-73/">
   <img src="leetcode.webp" alt="LeetCode stats - 782 problems solved" width="100%" />
 </a>
 
 <br><br>
+
+### 🟢 GeeksforGeeks
 
 <img src="geeksforgeeks.webp" alt="GeeksforGeeks stats - 593 problems solved" width="100%" />
 
