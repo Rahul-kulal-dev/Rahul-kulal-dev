@@ -18,7 +18,7 @@
 
 ### 🟢 GeeksforGeeks
 
-<img src="geeksforgeeks.webp" alt="GeeksforGeeks stats - 593 problems solved" width="100%" />
+<img src="geeksforkeeks.png" alt="GeeksforGeeks stats - 593 problems solved" width="100%" />
 
 <br>
 
